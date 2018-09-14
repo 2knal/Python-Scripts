@@ -9,7 +9,7 @@ This script plays the game on it's own as many number of times as the user wants
 
 ```     git clone -b <name-of-branch> git@github.com:2knal/Python-Scripts.git ```
 
-2. Now run this command in the terminal to run the script (First change directory to the Downloaded-Repo/2048),
+2. Now, run this command in the terminal to run the script (First change directory to the Downloaded-Repo/2048),
 
 ```     python 2048.py <input-for-no-of-turns-to-be-played> ```
 
