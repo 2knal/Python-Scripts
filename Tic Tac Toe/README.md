@@ -4,8 +4,8 @@
 
 ###### Currently the game supports,
 
-* [x] 1 Player Mode
-* [ ] 2 Player Mode
+* [ ] 1 Player Mode
+* [x] 2 Player Mode
 
 
 1. To play the game, first clone the repository as follows,
