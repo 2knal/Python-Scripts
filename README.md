@@ -3,9 +3,9 @@ ___
 
 ### Content
 
-1. [2048]()
-1. [Tic Tac Toe ]()
-1. [Automating some daily tasks]()
-1. [Simple Encryption-Decryption tool]()
+1. [2048](https://github.com/2knal/Python-Scripts/tree/master/2048)
+1. [Tic Tac Toe ](https://github.com/2knal/Python-Scripts/tree/master/Tic%20Tac%20Toe)
+1. [Automating some daily tasks](https://github.com/2knal/Python-Scripts/tree/master/AutomateDailyStuffs)
+1. [Simple Encryption-Decryption tool](https://github.com/2knal/Python-Scripts/tree/master/Encryption-Decryption)
 
 ##### *And many more yet to be added...*
