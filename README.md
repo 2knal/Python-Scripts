@@ -9,3 +9,5 @@ ___
 1. [Simple Encryption-Decryption tool](https://github.com/2knal/Python-Scripts/tree/master/Encryption-Decryption)
 
 ##### *And many more yet to be added...*
+
+*Happy Coding!* :smiley:
