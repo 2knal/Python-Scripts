@@ -7,6 +7,7 @@ ___
 1. [Tic Tac Toe ](https://github.com/2knal/Python-Scripts/tree/master/Tic%20Tac%20Toe)
 1. [Simple Encryption-Decryption tool](https://github.com/2knal/Python-Scripts/tree/master/Encryption-Decryption)
 1. [Automating some daily tasks](https://github.com/2knal/Python-Scripts/tree/master/AutomateDailyStuffs)
+1. [Colour to B/W](https://github.com/2knal/Python-Scripts/tree/master/Colour_to_blackandwhite)
 
 
 ##### *And many more yet to be added...*
